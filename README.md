@@ -4,7 +4,7 @@ IT is a simple tools that perform port scanning and also generate a html report
 
 # USAGE
 
- python xnet.py <ip>
+ python xnet.py "IP-address"
 
 # UI & APPERANCE
 
